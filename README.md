@@ -14,6 +14,7 @@ i making this project for fun and because i wanted to originaly reimagine an old
 programmers:
  - JoseCreative
  - SussusJanxus
+
 original project:
  - Kallus_ (gamejolt)
  
@@ -34,6 +35,7 @@ cree este projecto por diversion y porque queria originalmente recrear un projec
 programadores:
  - JoseCreative
  - SussusJanxus
+
 projecto original:
  - Kallus_ (gamejolt)
  
